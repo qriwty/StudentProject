@@ -1,5 +1,6 @@
 ﻿using System;
 
+
 namespace StudentProjectAPI.Exceptions
 {
     public class BadOperationException : Exception

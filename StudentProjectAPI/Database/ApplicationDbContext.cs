@@ -1,6 +1,7 @@
 ﻿using StudentProjectAPI.Models;
 using Microsoft.EntityFrameworkCore;
 
+
 namespace StudentProjectAPI.Database
 {
     public class ApplicationDbContext : DbContext
